@@ -1,6 +1,6 @@
 ---
 # defaults file for vector-role
-clickhouse_url: http://...:8123
+clickhouse_url: http://158.160.106.82:8123
 vector_version: "0.33.0-1"
 vector_config:
   sources:
